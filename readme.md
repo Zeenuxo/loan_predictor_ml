@@ -37,6 +37,10 @@ python -m venv env
 source env/Scripts/activate
 
 pip install -r requirements.txt
+
+Starting Streamlit
+python -m streamlit run app.py
+
 ```
 
 <br>
